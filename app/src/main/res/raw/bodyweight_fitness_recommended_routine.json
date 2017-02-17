@@ -72,24 +72,6 @@
       "defaultSet": "weighted"
     },
     {
-      "exerciseId": "exercise5",
-      "title": "Front Leg Swings",
-      "description": "1x(5-10)",
-      "type": "exercise",
-      "youTubeId": "4aoUZEZFJF8",
-      "videoId": "bodyweight_fitness_front_leg_swings",
-      "defaultSet": "weighted"
-    },
-    {
-      "exerciseId": "ee6adf81-5838-47fd-bfcc-c97ea63a7045",
-      "title": "Side Leg Swings",
-      "description": "1x(5-10)",
-      "type": "exercise",
-      "youTubeId": "4aoUZEZFJF8",
-      "videoId": "bodyweight_fitness_side_leg_swings",
-      "defaultSet": "weighted"
-    },
-    {
       "exerciseId": "exercise6",
       "title": "Wrist Mobility Exercises",
       "description": "1x(5-10)",
@@ -264,6 +246,21 @@
       "defaultSet": "timed"
     },
     {
+        "sectionId": "section_0",
+        "title": "Back Bridge",
+        "description": "1 min",
+        "type": "section",
+        "mode": "levels"
+    },
+    {
+        "exerciseId": "exercise_0",
+        "level": "Level 1",
+        "title": "Back Bridge",
+        "description": "1 min",
+        "type": "exercise",
+        "defaultSet": "timed"
+    },
+    {
       "categoryId": "category2",
       "title": "Strength Work",
       "type": "category"
@@ -388,6 +385,22 @@
       "type": "exercise",
       "youTubeId": "cQC9OMF3-AE",
       "videoId": "bodyweight_fitness_deep_step_up",
+      "defaultSet": "weighted"
+    },
+    {
+      "exerciseId": "exercise_4",
+      "level": "Level 4",
+      "title": "Shrimp Squat",
+      "description": "3x(5-8)",
+      "type": "exercise",
+      "defaultSet": "weighted"
+    },
+    {
+      "exerciseId": "exercise_5",
+      "level": "Level 5",
+      "title": "Pistol Squat",
+      "description": "3x(5-8)",
+      "type": "exercise",
       "defaultSet": "weighted"
     },
     {
@@ -585,11 +598,11 @@
       "exerciseId": "exercise47",
       "level": "Level 5",
       "title": "Tuck Front Lever",
-      "description": "3x(5-8)",
+      "description": "3x(10-30)",
       "type": "exercise",
       "youTubeId": "tiST0765Sfo",
       "videoId": "bodyweight_fitness_tuck_front_lever",
-      "defaultSet": "weighted"
+      "defaultSet": "timed"
     },
     {
       "exerciseId": "exercise48",

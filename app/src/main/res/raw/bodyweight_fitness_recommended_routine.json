@@ -63,6 +63,13 @@
       "defaultSet": "weighted"
     },
     {
+      "exerciseId": "exercise101",
+      "title": "Band Lateral Raise",
+      "description": "1x(5-10)",
+      "type": "exercise",
+      "defaultSet": "weighted"
+    },
+    {
       "exerciseId": "exercise1",
       "title": "Band Dislocates",
       "description": "1x(5-10)",
@@ -89,7 +96,7 @@
     },
     {
       "exerciseId": "exercise7",
-      "title": "Plank",
+      "title": "Fingertip Plank",
       "description": "1x(10-60s) hold",
       "type": "exercise",
       "youTubeId": "PLu6k-uKOJ0",
